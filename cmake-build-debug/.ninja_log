@@ -1,0 +1,11 @@
+# ninja log v5
+3	384	7365284811510629	CMakeFiles/fence_painting_problem.dir/main.cpp.obj	4e623d5537e6e4a3
+386	462	7365284812256086	fence_painting_problem.exe	52e0a0648b268f76
+16	390	7365284940782743	CMakeFiles/fence_painting_problem.dir/main.cpp.obj	4e623d5537e6e4a3
+391	467	7365284941517855	fence_painting_problem.exe	52e0a0648b268f76
+22	412	7365292793673220	CMakeFiles/fence_painting_problem.dir/main.cpp.obj	4e623d5537e6e4a3
+412	497	7365292794503995	fence_painting_problem.exe	52e0a0648b268f76
+16	407	7365292921303250	CMakeFiles/fence_painting_problem.dir/main.cpp.obj	4e623d5537e6e4a3
+408	490	7365292922098610	fence_painting_problem.exe	52e0a0648b268f76
+17	419	7365293216263868	CMakeFiles/fence_painting_problem.dir/main.cpp.obj	4e623d5537e6e4a3
+419	498	7365293217033913	fence_painting_problem.exe	52e0a0648b268f76
